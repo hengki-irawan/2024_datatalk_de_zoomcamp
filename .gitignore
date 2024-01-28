@@ -12,3 +12,4 @@
 **/ny_taxi_postgres_data/*
 serving_dir
 .ipynb_checkpoints/
+*.txt
